@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Filbert+Leonardo!;" />
 </h1>
 
-<h3 align="center">I am a data-driven enthusiast with a passion for uncovering insights and solving complex problems. Eager to embrace new challenges, I approach each task with curiosity and a commitment to excellence. My growth mindset and determination empower me to deliver impactful results and contribute effectively to any project.</h3>
+<h3 align="center">A passionate data science and analyst</h3>
 
 <br/>
 
